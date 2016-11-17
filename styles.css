@@ -1,0 +1,11 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@font-face {
+    font-family: 'titilliumblack';
+    src: url('fonts/titillium-black-webfont.woff2') format('woff2'),
+         url('fonts/titillium-black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
